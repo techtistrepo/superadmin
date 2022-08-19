@@ -17,7 +17,7 @@ const SubscriptionList = () => {
 
     const handleLogout = () => {
         localStorage.clear()
-        navigate({ pathname: '/admin/login' }, {
+        navigate({ pathname: '/superadmin/login' }, {
             replace: true
         })
     }

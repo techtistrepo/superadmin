@@ -5,10 +5,10 @@ export const RoutesName = {
 }
 
 export const AdminRouteNames = {
-    Admin: '/admin',
-    Login: '/admin/login',
-    Dashboard: '/admin/dashboard',
-    ForgotPassword: '/admin/forgot',
-    SubscriptionAdd: '/admin/subscription/add',
-    SubscriptionList: '/admin/subscription/list'
+    Admin: '/superadmin',
+    Login: '/superadmin/login',
+    Dashboard: '/superadmin/dashboard',
+    ForgotPassword: '/superadmin/forgot',
+    SubscriptionAdd: '/superadmin/subscription/add',
+    SubscriptionList: '/superadmin/subscription/list'
 }

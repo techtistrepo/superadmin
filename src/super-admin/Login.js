@@ -15,7 +15,7 @@ export const Login = () => {
             })
         }
         else {
-            navigate({ pathname: '/admin/dashboard' }, {
+            navigate({ pathname: '/superadmin/dashboard' }, {
                 replace: true
             })
         }
