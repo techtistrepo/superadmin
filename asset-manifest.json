@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/superadmin/static/css/main.98c14ede.css",
-    "main.js": "/superadmin/static/js/main.dd37b6c2.js",
+    "main.js": "/superadmin/static/js/main.065008f5.js",
     "static/media/ico-user-mgmt.svg": "/superadmin/static/media/ico-user-mgmt.648534b1162758fe29edd9ff8faff534.svg",
     "static/media/ico-settings.svg": "/superadmin/static/media/ico-settings.1fa18f930a3471421956f978cb8c9fbf.svg",
     "static/media/ico_dash.svg": "/superadmin/static/media/ico_dash.c2b01a19d19f24b7e3ce9df5eb20a95a.svg",
@@ -12,10 +12,10 @@
     "static/media/chevron-right-left.svg": "/superadmin/static/media/chevron-right-left.18db1dee69820b37b644da5a4e48c7bd.svg",
     "static/media/add.svg": "/superadmin/static/media/add.1d2ea5681abf34765a424be869d4c58f.svg",
     "main.98c14ede.css.map": "/superadmin/static/css/main.98c14ede.css.map",
-    "main.dd37b6c2.js.map": "/superadmin/static/js/main.dd37b6c2.js.map"
+    "main.065008f5.js.map": "/superadmin/static/js/main.065008f5.js.map"
   },
   "entrypoints": [
     "static/css/main.98c14ede.css",
-    "static/js/main.dd37b6c2.js"
+    "static/js/main.065008f5.js"
   ]
 }
