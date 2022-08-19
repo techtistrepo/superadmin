@@ -1,6 +1,6 @@
 import './App.css';
 import '../src/super-admin/css/style.css'
-import { BrowserRouter as Router} from "react-router-dom";
+import { HashRouter as Router} from "react-router-dom";
 import AppRoutes from './approutes/routes';
 
 function App() {
